@@ -94,7 +94,7 @@ export default function Home() {
               <span
                 className={`bg-gradient-to-r from-[#4776E6] to-[#8E54E9] bg-clip-text font-bold text-transparent ${sora.className}`}
               >
-                adsonmartins.dev
+                adsonmartins.tech
               </span>
               .{" "}
               <span className="inline-block lg:inline-flex">
